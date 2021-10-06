@@ -1,1 +1,3 @@
 ## MEAN STACK STRUCTURE
+
+## sample
